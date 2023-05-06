@@ -1,0 +1,8 @@
+# Optimized
+__pycache__
+
+# Unit test
+.pytest_cache
+
+# Environment
+venv
